@@ -14,7 +14,8 @@ Its our own take on the same, and we hope to make it standout with continuos imp
 BFH/recj16fMSFxDxJgVB/2021
 
 ## How it works
-
+https://drive.google.com/drive/folders/1exk5_idNQAPg7abReBzI7uOVWrujiSDL?usp=sharing
+https://drive.google.com/file/d/1cgGEU-pTFMwrsL2XcOVcifckV4pAso7s/view?usp=sharing
 ## Libraries used
   
   font_awesome_flutter: ^8.10.0
@@ -36,6 +37,6 @@ Clone the repo, and run the pubspec.yaml. Try to setup a new firebase authentica
 6. You are good to go
 
 You can also find the apk if you prefer a simple install at
-
+https://drive.google.com/drive/folders/1exk5_idNQAPg7abReBzI7uOVWrujiSDL?usp=sharing
 
 
