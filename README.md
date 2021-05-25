@@ -14,8 +14,9 @@ Its our own take on the same, and we hope to make it standout with continuos imp
 BFH/recj16fMSFxDxJgVB/2021
 
 ## How it works
-https://drive.google.com/drive/folders/1exk5_idNQAPg7abReBzI7uOVWrujiSDL?usp=sharing
-https://drive.google.com/file/d/1cgGEU-pTFMwrsL2XcOVcifckV4pAso7s/view?usp=sharing
+1. https://drive.google.com/drive/folders/1exk5_idNQAPg7abReBzI7uOVWrujiSDL?usp=sharing
+
+2.https://drive.google.com/file/d/1cgGEU-pTFMwrsL2XcOVcifckV4pAso7s/view?usp=sharing
 ## Libraries used
   
   font_awesome_flutter: ^8.10.0
